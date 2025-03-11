@@ -22,3 +22,11 @@ print(funcky_name)
 print(funcky_name2)
 print(funcky_name3)
 print((reversed_name))
+
+website = "http://google.com"
+website2 = "http://wikipedia.com"
+
+slice = slice(7,-4)
+
+print(website[slice])
+print(website2[slice])
